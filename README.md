@@ -1,3 +1,3 @@
-# space-invader
+# Space Invader
 
 JavaScript browser game
